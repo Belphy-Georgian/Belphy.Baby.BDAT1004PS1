@@ -1,6 +1,6 @@
 BDAT1004PS1
 
-Probelem Set completely done in Jupiter Notebook.
+Problem Set completely done in Jupiter Notebook.
 
 References:
 
